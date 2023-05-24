@@ -1,0 +1,14 @@
+.navbar-toggler {
+  background-color: #fff !important;
+}
+.nav-link {
+  font-size: 18px;
+}
+.active {
+  background-color: #c06e00 !important;
+  border-radius: 5px;
+}
+.nav-link:hover {
+  background-color: #c06d009d !important;
+  border-radius: 5px;
+}
